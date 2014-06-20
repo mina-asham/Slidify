@@ -29,9 +29,7 @@ mode        : selfcontained # {standalone, draft}
 - Devised between 1830 and 1850 by the Belgian polymath Adolphe Quetelet during the course of developing "social physics", it is defined as the individual's body mass divided by the square of their height - with the value universally being given in units of kg/m<sup>2</sup>.
 
 - Body Mass Index is defined as: 
-<div style="font-size: 200%;">
 $$\mathrm{BMI} = \frac{\text{mass}(\text{kg})}{\left(\text{height}(\text{m})\right)^2} = \frac{\text{mass}(\text{lb})}{\left(\text{height}(\text{in})\right)^2}\times 703$$
-</div>
 
 ---
 
@@ -74,5 +72,3 @@ Obese Class III (Very severely obese) | over 40
 
 1. <b>Wikipedia:</b> http://en.wikipedia.org/wiki/Body_mass_index
 2. <b>Application:</b> http://minaasham.shinyapps.io/BodyMassIndex
-
----
